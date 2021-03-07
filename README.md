@@ -1,16 +1,14 @@
-![Sofa Potato image](https://github.com/Viper-Bots/sofa-potato/blob/main/src/sofa-potato.svg)
+![Sofa Potato image](https://github.com/Viper-Bots/sofa-potato/blob/main/src/game-board-image.png)
 
 
 Sofa Potato
 ===========
 
-A fitness board game created by kids for kids.
+Sofa Potato is a fitness board game that encourages every member of the family to get up and be active in a fun way. 
 
-Sofa Potato is a fitness board game that enocurages every member of the family to get up and active in a fun way. 
+In this game, "Sofa Potato" is an evil villain who wants to turn the entire world lazy. Players work together to find his secret lair and capture him by finding pieces of evidence along the way.
 
-"Sofa Potato" is an evil villain who wants to turn the entire world lazy. In this game, players work together to find his secret lair and capture him by finding pieces of evidence along the way.
-
-On each turn players draw a card that will include a spy-themed scenario, an exercise to do, and a difficulty level. There are four different exercise categories: cardiorespiratory endurance, core strength, muscular strength and flexibility -- which includes yoga and balance.
+On each turn, players draw a card that will include a spy-themed scenario, an exercise to do, and a difficulty level. There are four different exercise categories: cardiorespiratory endurance, core strength, muscular strength and flexibility -- which includes yoga and balance.
 
 
 How to use this repository
