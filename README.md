@@ -1,5 +1,9 @@
+![Sofa Potato image](https://raw.githubusercontent.com/Viper-Bots/sofa-potato/main/src/sofa-potato.svg)
+
+
 Sofa Potato
 ===========
+
 A fitness board game created by kids for kids.
 
 Sofa Potato is a fitness board game that enocurages every member of the family to get up and active in a fun way. 
